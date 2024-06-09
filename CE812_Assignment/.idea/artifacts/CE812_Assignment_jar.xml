@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CE812_Assignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CE812_Assignment_jar</output-path>
+    <root id="archive" name="CE812_Assignment.jar">
+      <element id="module-output" name="CE812_Assignment" />
+    </root>
+  </artifact>
+</component>
